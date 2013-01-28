@@ -1,0 +1,1 @@
+java.exe -Xms512m -Xmx1024m -jar launcher.jar "yourUsername" "yourNumericPasswordIDHash" "kModPack" "854x480" "Mojang"
