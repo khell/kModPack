@@ -1,4 +1,14 @@
 {
     "formatVersion": "1",
-    "groups": ""
+    "groups":
+    {
+        "kModPack":
+        {
+            "hidden": "false",
+            "instances":
+            [
+                "kModPack"
+            ]
+        }
+    }
 }
