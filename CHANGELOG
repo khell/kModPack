@@ -1,3 +1,11 @@
+v1.3 (31/01/2013)
+-Add MAtmos R21.
+-Improve the following recipes to more accurately represent their long-term payoff over initial investment:
+	* BuildCraft quarry
+	* ComputerCraft computer
+	* ComputerCraft advanced computer
+-Disable Factorization silver ore generation.
+
 v1.2 (28/01/2013)
 -Add Mo'Creatures.
 
