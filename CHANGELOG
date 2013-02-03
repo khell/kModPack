@@ -1,3 +1,9 @@
+v1.5 (03/02/2013)
+-Remove the Twilight Forest Uncrafting Table.
+-Reduce the EU output of Generators and Geothermal Generators to 9 and 10 EU/tick respectively.
+-Remove the Gregtech Thermal Generator.
+-Add InventoryTweaks 1.50.
+
 v1.4 (01/02/2013)
 -Increase ThermalExpansion pulverizer capacity to 100800 MJ (from 4800).
 -Delete all pulverizer recipes.
