@@ -1,3 +1,19 @@
+v1.7 (10/02/2013)
+==Forestry==
+-Increase the difficulty of powering Forestry machines.
+-Increase the difficulty of beekeeping.
+
+==GregTech & IC2==
+-Add the "Block of UU-Matter", obtainable through the compressor.
+-Improve the recipes for the Quantumsuit.
+-The Matter Fabricator now requires 1 billion EU to produce one UU-Matter.
+
+==ThermalExpansion==
+-Disable the Igneous Extruder.
+-Disable the Glacial Precipitator.
+-Increase the energy requirements of the Magma Crucible.
+-Decrease the efficiency of the Redstone Energy Conduit.
+
 v1.6 (07/02/2013)
 ==Advanced Solar Panels==
 -Reduce the internal storage of Advanced Solar Panels to 5000, 10000 and 15000 EU.
