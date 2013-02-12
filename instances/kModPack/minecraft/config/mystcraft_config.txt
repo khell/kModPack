@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 26/01/13 22:49
+# Generated on 12/02/13 14:05
 
 ####################
 # block
@@ -108,9 +108,9 @@ symbol {
     B:cloudred.enabled=true
     B:cloudwhite.enabled=true
     B:cryformcry.enabled=true
-    B:cryformglow.enabled=true
-    B:day.enabled=true
-    B:denseores.enabled=true
+    B:cryformglow.enabled=false
+    B:day.enabled=false
+    B:denseores.enabled=false
     B:dungeons.enabled=true
     B:dusk.enabled=true
     B:envaccel.enabled=true
@@ -118,7 +118,7 @@ symbol {
     B:envlightning.enabled=true
     B:envmeteor.enabled=true
     B:envscorch.enabled=true
-    B:flat.enabled=true
+    B:flat.enabled=false
     B:fogblack.enabled=true
     B:fogblue.enabled=true
     B:fogchromatic.enabled=true
@@ -126,16 +126,16 @@ symbol {
     B:fognormal.enabled=true
     B:fogred.enabled=true
     B:fogwhite.enabled=true
-    B:ftime.enabled=true
+    B:ftime.enabled=false
     B:huge_trees.enabled=true
     B:lakes.enabled=true
     B:lava_lakes.enabled=true
-    B:lightingbright.enabled=true
+    B:lightingbright.enabled=false
     B:lightingdark.enabled=true
     B:mineshafts.enabled=true
     B:night.enabled=true
     B:ntime.enabled=true
-    B:obelisks.enabled=true
+    B:obelisks.enabled=false
     B:rain.enabled=true
     B:ravines.enabled=true
     B:single_biome.enabled=true
@@ -151,9 +151,9 @@ symbol {
     B:standard_lighting.enabled=true
     B:standard_terrain.enabled=true
     B:star_fissure.enabled=true
-    B:stime.enabled=true
+    B:stime.enabled=false
     B:storm.enabled=true
-    B:strongholds.enabled=true
+    B:strongholds.enabled=false
     B:sunsetblack.enabled=true
     B:sunsetblue.enabled=true
     B:sunsetchromatic.enabled=true
