@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 26/01/13 22:49
+# Generated on 16/02/13 00:18
 
 ####################
 # languagefile
@@ -70,6 +70,7 @@ languagefile {
     S:item.GT_Components.33.name=Bronze Machine Hull
     S:item.GT_Components.34.name=Brass Machine Hull
     S:item.GT_Components.35.name=Steel Machine Hull
+    S:item.GT_Components.36.name=Titanium Machine Hull
     S:item.GT_Components.4.name=Computer Monitor
     S:item.GT_Dusts.0.name=Ender Pearl Dust
     S:item.GT_Dusts.1.name=Ender Eye Dust
@@ -337,11 +338,13 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Grinder.name=Industrial Grinder
     S:tile.BlockMetaID_Machine.GT_Harvestor.name=Crop Harvestor
     S:tile.BlockMetaID_Machine.GT_ImplosionCompressor.name=Implosion Compressor
+    S:tile.BlockMetaID_Machine.GT_InventoryManager.name=Inventory Manager
     S:tile.BlockMetaID_Machine.GT_MagicAbsorber.name=Magic Energy Absorber
     S:tile.BlockMetaID_Machine.GT_MagicConverter.name=Magic Energy Converter
     S:tile.BlockMetaID_Machine.GT_QuantumTank.name=Quantum Tank
     S:tile.BlockMetaID_Machine.GT_RegulatorAdvanced.name=Advanced Regulator
     S:tile.BlockMetaID_Machine.GT_RockBreaker.name=Electric Rock Breaker
+    S:tile.BlockMetaID_Machine.GT_Safe.name=Advanced Safe
     S:tile.BlockMetaID_Machine.GT_Sawmill.name=Industrial Sawmill
     S:tile.BlockMetaID_Machine.GT_Scrapboxinator.name=Scrapboxinator
     S:tile.BlockMetaID_Machine.GT_SemifluidGenerator.name=Semifluid Generator
