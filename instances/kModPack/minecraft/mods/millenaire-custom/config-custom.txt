@@ -1,0 +1,17 @@
+//Put in this file any configuration from config.txt you want to change
+//That way they will not get overwritten when you update
+//For example, to play in French, put "language=fr" on a seperate line (without the quotes)
+
+village_list_key=H
+quest_list_key=J
+
+block_building_id=2951
+block_panel_id=2966
+block_wood_id=2967
+block_earth_id=2968
+block_stone_id=2969
+block_crops_id=2970
+block_panes_id=2971
+block_byzantine_brick_id=2972
+block_byzantine_slab_id=2973
+block_byzantine_mixedbrick_id=2974
