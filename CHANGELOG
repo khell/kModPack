@@ -1,3 +1,53 @@
+v2.0 (19/02/2013)
+==General==
+-Update Minecraft to 1.4.7.
+-Update Minecraft Forge to build 524.
+-Update Optifine to HD D3 Ultra.
+-Update the following mods:
+	ComputerCraft to 1.5.
+	Mo'Creatures to 4.5.1.
+	ExtrabiomesXL to 3.9.0.
+	Flan's Mod to 2.1.1 for 1.4.7.
+	GravityGun to 1.4.7v2.
+	PortalGun to 1.4.7v4.
+	Railcraft to 6.15.3.0.
+	Steve's Carts to 2.0.0 alpha 57.
+	Thaumcraft to 3.0.3.
+	ThermalExpansion to 2.2.1.
+	ReiMinimap to 1.4.7 compatible 3.2_06.
+	BuildCraft to 3.4.3.
+	CompactSolars to 4.0.2.28.
+	Forestry to 2.0.0.10.
+	GregTech to 2.78k.
+	IndustrialCraft 2 to 1.115.207.
+	IronChest to 5.0.1.246.
+	MiscPeripherals to 3.1.
+	TwilightForest to 1.15.2.
+	NEIPlugins to 1.0.4.5 unofficial version with Forestry 2 support.
+-Add the following mods:
+	BiblioCraft 1.0.2
+	ExtraBees 1.5.0.2
+	SecretRooms 4.5.0.190
+	Millenaire 4.1.8
+
+==Millenaire==
+-Amulets are no longer available for sale from villagers.
+
+==Mystcraft==
+-Disable the following symbols:
+	Glowstone Crystals
+	Eternal Day
+	Dense Ores
+	Flat
+	Fast Time
+	Lighting Bright
+	Obelisks
+	Slow Time
+	Strongholds
+
+==MFFS==
+-Removed the ThermalExpansion pulverizer recipe for Monazit Ore.
+
 v1.7 (10/02/2013)
 ==Forestry==
 -Increase the difficulty of powering Forestry machines.
